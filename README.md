@@ -26,7 +26,7 @@ Ce projet développe une application web de gestion des employés en utilisant J
 
 **Installation et exécution**
 
-1. Clonez le dépôt GitHub: `git clone https://github.com/nabilsabi01/employee-management-java-ee.git`
+1. Clonez le dépôt GitHub: `https://github.com/manbarmohamed/Crud-servlet-app.git`
 2. Installez un serveur Java EE compatible, comme Apache Tomcat.
 3. Déployez l'application web sur le serveur.
 4. Démarrez le serveur.
